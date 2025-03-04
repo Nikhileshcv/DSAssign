@@ -1,0 +1,4 @@
+Average Grip Strength Analysis by Frailty Status
+Frailty
+N    27.666667
+Y    23.500000
